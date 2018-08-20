@@ -1,0 +1,10 @@
+这是一个Python爬虫程序，爬取起点小说网历史类型小说。
+使用的模块有：
+  1、beautifulsoup
+  2、requests
+  3、pymysql
+  4、openpyxl
+实现的功能有：
+  1、保存到Excel
+  2、保存到数据库
+  3、下载小说封面图片
